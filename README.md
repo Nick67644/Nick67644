@@ -9,6 +9,10 @@
  * Physics/space is the future (Message if you are up for some talk about space)
  * Elon is the best 
 
+* Also go check out my Github org |
+
+* github.com/Tank1334 love you ;))
+
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick67644)
 
