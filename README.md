@@ -5,9 +5,9 @@
   * Ny 4.5k+ coding server(https://discord.gg/XTsCQNd) 
  
 ## Hobbies 
- * I love to code I mainly focus on my discord servers website or bots.
- * Physics/space is the future (Message if you are up for some talk about space)
- * Elon is the best 
+* I love to code I mainly focus on my discord servers website or bots.
+ Physics/space is the future (Message if you are up for some talk about space)
+ Elon is the best 
 
 * Also go check out my Github org |
 
