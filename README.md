@@ -12,7 +12,7 @@
 ## Info
 
 * Also go check out my Github organization for World of Coding (Find in profile)
-* github.com/Tank1334 love you ;))
+* https://github.com/Tank1334 love you ;))
 
 # Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick67644)
