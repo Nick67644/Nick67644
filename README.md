@@ -2,12 +2,12 @@
 
 ## 📫 How to reach me: 
   * Nick2020#4710 (My discord)
-  * Ny 4.5k+ coding server(https://discord.gg/XTsCQNd) 
+  * Ny 5k+ coding server(https://discord.gg/XTsCQNd) 
  
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
 * Physics/space is the future (Message if you are up for some talk about space)
-* Elon is the best 
+* Elon musk is the best!
 
 ## Info
 
