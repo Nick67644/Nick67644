@@ -2,7 +2,7 @@
 
 ## 📫 How to reach me: 
   * Nick2020#4710 (My discord)
-  * Ny 5k+ coding server(https://discord.gg/XTsCQNd) 
+  * My 5k+ coding server(https://discord.gg/XTsCQNd) 
  
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
