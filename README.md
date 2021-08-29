@@ -8,6 +8,7 @@
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
 * Physics/space is the future (Message if you are up for some talk about space)
+* In my Schools robotics team!
 * Big fan of games and movies (DnD, MTG, Lord of the rings etc..)
 * Elon musk is the best!
 
