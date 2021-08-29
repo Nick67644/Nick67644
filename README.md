@@ -2,7 +2,8 @@
 
 ## 📫 How to reach me: 
   * Nick2020#4710 (My discord)
-  * My 8k+ coding discord server! (Invite: https://discord.gg/XTsCQNd ) 
+  * My 8k+ coding discord server! Invite: https://discord.gg/XTsCQNd 
+  * Manager on Pycord the new discord.py library! Invite: https://discord.gg/pycord
  
 ## Hobbies 
 * I love to code I mainly focus on my discord servers website or bots.
