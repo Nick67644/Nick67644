@@ -2,7 +2,7 @@
 
 ## 📫 How to reach me: 
   * Nick2020#4710 (My discord)
-  * My 11k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
+  * My 12k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
   * Manager of 15k coding reddit! Link: https://www.reddit.com/r/code
   * Manager on Pycord the new discord.py library! Invite: https://discord.gg/dDvdeA8Jqz
   * Part owner of Weather Bot! Top.gg invite: https://top.gg/bot/856941040266641499
