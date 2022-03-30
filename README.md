@@ -25,4 +25,3 @@
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=Nick67644)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick67644)] (https://github.com/anuraghazra/github-readme-stats)
