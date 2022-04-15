@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 📫 How to reach me: 
+## 📫 Information about me: 
   * Nick2020#4710 (My discord)
   * My 14k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
   * Manager of 16k coding reddit! Link: https://www.reddit.com/r/code
