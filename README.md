@@ -2,8 +2,8 @@
 
 ## 📫 Information about me: 
   * Nick2020#4710 (My discord)
-  * My 14k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
-  * Manager of 16k coding reddit! Link: https://www.reddit.com/r/code
+  * My 15k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
+  * Manager of 17k coding reddit! Link: https://www.reddit.com/r/code
   * World of Coding's website: https://www.world-of-coding.tech/
   * Manager on Pycord the new discord.py library! Invite: https://discord.gg/dDvdeA8Jqz
   * Part owner of Weather Bot! Top.gg invite: https://top.gg/bot/856941040266641499 (Archived project)
