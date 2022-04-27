@@ -3,7 +3,6 @@
 
 ## 📫 Information about me:
  * Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit.
- 
  * Outreach Lead for my robotics team
  * Developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a>
  * Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a>
@@ -20,7 +19,6 @@
  </p>
 
  <p align="center">
- https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick67644&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api?username=nick67644&theme=blue-green">
  </p>
