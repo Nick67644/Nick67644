@@ -1,27 +1,23 @@
-## Hi there 👋
 
-## 📫 Information about me: 
-  * Nick2020#4710 (My discord)
-  * My 15k+ coding discord server! Invite: https://discord.gg/pkShK9ax2X 
-  * Manager of 17k coding reddit! Link: https://www.reddit.com/r/code
-  * World of Coding's website: https://www.world-of-coding.tech/
-  * Manager on Pycord the new discord.py library! Invite: https://discord.gg/dDvdeA8Jqz
-  * Part owner of Weather Bot! Top.gg invite: https://top.gg/bot/856941040266641499 (Archived project)
-  * Part of the WoC and TCA org.
- 
-## Hobbies 
-* I love to program I mainly focus on my discord servers website or bots.
-* Physics/space is the future (Message if you are up for some talk about space)
-* In my Schools robotics team!
-* Big fan of games and movies (DnD, MTG, Lord of the rings etc..)
-* Elon musk is the best!
+<h2 align="center">Welcome to my profile!👋</h2>
 
-## Info
+## 📫 Information about me:
+ * Owner of <a href="https://world-of-coding.tech/" alt"World of Coding"> and r/code subreddit
+ * Outreach Lead for my robotics team
+ * Developer for <a href="https://theredalliance.org/" alt="The Red Alliance">
+ * Check out my <a href="https://nick2020.nick20201.repl.co/" alt"dev portfolio!">
 
-* Also go check out my Github organization for World of Coding (Find in profile)
+ <p align="center">
+    <a href="https://discord.gg/pkShK9ax2X" alt="World of Coding">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://www.reddit.com/r/code/" alt="r/code">
+        <img src="https://img.shields.io/badge/r/code-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+    </a>
+ </p>
 
-# Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick67644)
-
-![Nick's github stats](https://github-readme-stats.vercel.app/api?username=Nick67644)
-
+ <p align="center">
+ https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nick67644}&theme=blue-green">
+    <img src="https://github-readme-stats.vercel.app/api?username={nick67644}&theme=blue-green">
+ </p>
