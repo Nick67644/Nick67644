@@ -30,6 +30,7 @@
 						<img class="vs" src="https://img.shields.io/badge/VS-404D59?style=for-the-badge&amp;logo=VISUAL%20STUDIO&amp;logoColor=5d2b90">
 </div>
 
+<h2 align="center">Find Me</h2>
  <p align="center">
     <a href="https://discord.gg/pkShK9ax2X" alt="World of Coding">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
