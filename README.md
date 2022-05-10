@@ -26,7 +26,7 @@
 						<img class="mac" src="https://img.shields.io/badge/apple-%23404d59.svg?style=for-the-badge&amp;logo=apple&amp;logoColor=%#000000%22">
 						<br>
 						<img class="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
-						<img class="vsc" src="https://img.shields.io/badge/VS-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
+						<img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
 						<img class="atom" src="https://img.shields.io/badge/atom-404D59?style=for-the-badge&amp;logo=atom&amp;logoColor=26cb84">
 						<img class="sub" src="https://img.shields.io/badge/sublime-404D59?style=for-the-badge&amp;logo=sublimetext&amp;logoColor=FF9800">
 						<img class="vs" src="https://img.shields.io/badge/VS-404D59?style=for-the-badge&amp;logo=VISUAL%20STUDIO&amp;logoColor=5d2b90">
