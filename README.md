@@ -2,10 +2,10 @@
 <h2 align="center">Welcome to my profile!👋</h2>
 
 <h2 align="center"> 📫 Information about me: </h2>
-	 * Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> 		subreddit.
-	 * Outreach Lead for my robotics team.
-	 * Developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a>
-	 * Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a>
+* Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit.
+* Outreach Lead for my robotics team.
+* Developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a>
+* Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a>
 
 <h2 align="center">My Experiences</h2>
 
