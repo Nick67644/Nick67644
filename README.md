@@ -6,7 +6,7 @@
  Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit. <br>
  Owner of Weather Bot! <br>
  Outreach Lead for my robotics team.<br>
- Developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
+ Lead frontend developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
  Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a><br>
 </p>
 
