@@ -19,7 +19,7 @@
 						<img class="md" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white">
 						<br>
 						<img class="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white">
-						<img class="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
+						<img class="java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite">
 						<img class="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white">
 						<img class="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&amp;logo=ruby&amp;logoColor=white">
 						<br>
