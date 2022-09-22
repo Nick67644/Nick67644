@@ -5,6 +5,7 @@
 <p align="center">
  Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit. <br>
  Owner of <a target="_blank" href="https://world-of-coding.tech/weather">Weather Bot!</a> <br>
+ Head manager/Lead for Spookcord - October Hackthon! 🎃
  Outreach Lead for my robotics team.<br>
  Lead frontend developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
  Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a><br>
