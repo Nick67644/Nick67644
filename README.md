@@ -46,7 +46,8 @@
         <img src="https://img.shields.io/badge/r/code-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
     </a>
  </p>
-
+ 
+<h2 align="center">Github Information</h2>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick67644&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api?username=nick67644&theme=blue-green">
