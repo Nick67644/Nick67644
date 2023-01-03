@@ -9,7 +9,7 @@
  Head manager/Lead for Snowcodes - Winter Hackathon! ❄️ <br>
  Outreach Lead for my robotics team. <br>
  Lead frontend developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
- Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio!</a><br>
+ Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio! (In progress)</a><br>
 </p>
 
 <h2 align="center">My Experiences</h2>
