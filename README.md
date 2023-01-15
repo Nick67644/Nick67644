@@ -39,7 +39,7 @@
 
 <h2 align="center">Find Me</h2>
  <p align="center">
-    <a href="https://discord.gg/pkShK9ax2X" alt="World of Coding">
+    <a href="https://discord.gg/program" alt="World of Coding">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     <a href="https://www.reddit.com/r/code/" alt="r/code">
