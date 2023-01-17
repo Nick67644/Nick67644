@@ -49,8 +49,8 @@
  
 <h2 align="center">Github Information</h2>
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick67644&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nick67644&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true">
  </p>
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nick67644&theme=blue-green">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick67644&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact">
  </p>
