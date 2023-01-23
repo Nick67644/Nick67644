@@ -7,7 +7,7 @@
  Owner of <a target="_blank" href="https://world-of-coding.tech/weather">Weather Bot!</a> <br>
  Head manager/Lead for Spookcord - October Hackathon! 🎃 <br>
  Head manager/Lead for Snowcodes - Winter Hackathon! ❄️ <br>
- Outreach Lead for my robotics team. <br>
+ Outreach Lead/Web developer for my robotics team. <br>
  Lead frontend developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
  Check out my <a target="_blank" href="https://nick2020.nick20201.repl.co/">dev portfolio! (In progress)</a><br>
 </p>
