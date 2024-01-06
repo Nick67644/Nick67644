@@ -3,11 +3,11 @@
 
 <h2 align="center"> 📫 Information about me:</h2>
 <p align="center">
- Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit. <br>
+ Ex-Owner of <a target="_blank" href="https://world-of-coding.tech/">World of Coding</a> and <a target="_blank" href="https://world-of-coding.tech/">r/code</a> subreddit. <br>
  Owner of <a target="_blank" href="https://world-of-coding.tech/weather">Weather Bot!</a> <br>
  Head manager/Lead for Spookcord - October Hackathon! 🎃 <br>
  Head manager/Lead for Snowcodes - Winter Hackathon! ❄️ <br>
- Outreach Lead/Web developer for my robotics team. <br>
+ Team captain and Web Dev for my robotics team. <br>
  Lead frontend developer for <a target="_blank" href="https://theredalliance.org">The Red Alliance.</a><br>
 </p>
 
@@ -29,8 +29,6 @@
 						<br>
 						<img class="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white">
 						<img class="rasp" src="https://img.shields.io/badge/Raspbian-CC342D?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white">
-						<img class="an" src="https://camo.githubusercontent.com/6171036bcfdfe0d91ab74f894aaecb9c650a267ae85bcbcb3e9272f3bceb923d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d2532333430346435393f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d2523334444433834">
-						<img class="mac" src="https://img.shields.io/badge/apple-%23404d59.svg?style=for-the-badge&amp;logo=apple&amp;logoColor=%#000000%22">
 						<br>
 						<img class="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white">
 						<img class="vsc" src="https://img.shields.io/badge/VSC-404D59?style=for-the-badge&amp;logo=VISUALSTUDIOCODE&amp;logoColor=0078d7">
@@ -39,16 +37,6 @@
 						<img class="vs" src="https://img.shields.io/badge/VS-404D59?style=for-the-badge&amp;logo=VISUAL%20STUDIO&amp;logoColor=5d2b90">
 </div>
 
-<h2 align="center">Find Me</h2>
- <p align="center">
-    <a href="https://discord.gg/program" alt="World of Coding">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    <a href="https://www.reddit.com/r/code/" alt="r/code">
-        <img src="https://img.shields.io/badge/r/code-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-    </a>
- </p>
- 
 <h2 align="center">Github Information</h2>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Nick67644&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true">
